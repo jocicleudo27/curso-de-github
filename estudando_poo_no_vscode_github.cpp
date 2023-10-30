@@ -33,6 +33,11 @@ int main(){
     Produto celular("Celular" , 1000.0);
     cout << "Nome do produto: " << celular.getNome() << endl;
     cout << "Preco do produto: " << celular.getPreco() << endl;
+    cout << endl << endl;
+
+    Produto carro("Palio", 2000.0);
+    cout << "Nome do produto: " << carro.getNome() << endl;
+    cout << "Preco do produto: " << carro.getPreco() << endl;
 
     return 0;
 }
