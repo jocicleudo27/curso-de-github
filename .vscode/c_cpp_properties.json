@@ -10,6 +10,20 @@
                 "UNICODE",
                 "_UNICODE"
             ]
+        },
+        {
+            "name": "include",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
         }
     ],
     "version": 4
