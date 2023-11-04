@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+	<title>Teste de git revert </title>
+<head>
+
+<body>
+<h3>Teste de git revert</h3>
+<p>Joci em treinamento</p>
+<p>Curso Boson</p>
+
+<body>
+</html>
