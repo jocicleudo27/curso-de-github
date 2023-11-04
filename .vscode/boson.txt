@@ -4,7 +4,7 @@
 <head>
 
 <body>
-<h3>Teste de git revert</h3>
+<h2>Teste de git revert</h2>
 <p>Joci em treinamento</p>
 <p>Curso Boson</p>
 
