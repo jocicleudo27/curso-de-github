@@ -1,5 +1,5 @@
 
-/*
+
 #include <iostream>
 #include <cstring>
 
@@ -47,6 +47,6 @@ int main(){
     cout << endl;
     return 0;
 }
-*/
+
 
 
