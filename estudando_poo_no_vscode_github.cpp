@@ -48,13 +48,5 @@ int main(){
     return 0;
 }
 
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-    cout << "ola mundo esta compilando agora" << endl; ;   
-} // namespace std;
 
 
