@@ -1,20 +1,25 @@
+
 {
     "configurations": [
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:\\MinGW\\bin"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
-            ]
+            ],
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
         },
         {
             "name": "include",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:/Program Files/CodeBlocks/MinGW/opt/include"
             ],
             "defines": [
                 "_DEBUG",

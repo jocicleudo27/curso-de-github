@@ -6,7 +6,7 @@ using namespace std;
 
 class Produto{
 public:
-    string nome;
+    string nome;        
     double preco;
 
     Produto(string nome, double preco): nome(nome), preco(preco){}
@@ -46,3 +46,4 @@ int main(){
     cout << endl;
     return 0;
 }
+
