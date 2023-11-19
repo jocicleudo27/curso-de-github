@@ -10,11 +10,6 @@ struct Pessoa {
     void exibirDados(){
         cout << "Nome: " << nome << endl;
         cout << "Idade: " << idade << endl;
-<<<<<<< HEAD
-        cout << fixed << setprecision(4) << "Salario: " << salario << endl;
-    }  
-};
-=======
         cout << fixed << setprecision(4) << "Salario: " << salario << endl;// Use fixed e setprecision para formatar a saída
     }
 };
@@ -34,4 +29,3 @@ int main(){
 
     return 0;
 }
->>>>>>> minha-primeira-ramificação
