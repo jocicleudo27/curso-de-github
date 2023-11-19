@@ -5,6 +5,7 @@
       "includePath": [
         "${workspaceFolder}/**"
       ],
+<<<<<<< HEAD
       "defines": [
         "_DEBUG",
         "UNICODE",
@@ -14,6 +15,15 @@
       "cppStandard": "${default}",
       "intelliSenseMode": "windows-gcc-x86",
       "compilerPath": "C:/MinGW/bin/gcc.exe"
+=======
+      "compilerPath": "C:/MinGW/bin/gcc.exe",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-gcc-x86",
+      "compilerArgs": [
+        ""
+      ]
+>>>>>>> minha-primeira-ramificação
     }
   ],
   "version": 4
