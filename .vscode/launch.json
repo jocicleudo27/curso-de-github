@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/PC/Documents/test/cursocplusplus/meusprojetos/curso-de-github",
-      "program": "c:/Users/PC/Documents/test/cursocplusplus/meusprojetos/curso-de-github/build/Debug/outDebug",
+      "cwd": "c:/Users/PC/Documents/test/cursocplusplus/meus projetos/curso-de-github",
+      "program": "c:/Users/PC/Documents/test/cursocplusplus/meus projetos/curso-de-github/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
