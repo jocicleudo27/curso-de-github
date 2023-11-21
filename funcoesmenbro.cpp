@@ -30,6 +30,13 @@ bool compararIdade(Pessoa p1, Pessoa p2){
     return p1.idade > p2.idade;
 }
 
+int diferencaIdade(Pessoa p1, Pessoa p2){
+    return abs(p1.idade - p2.idade);
+}
+
+bool compararSalario(Pessoa p1, Pessoa p2){
+    return p1.salario > p2.salario;
+}
 int main(){
    Pessoa pessoa1, pessoa2; //Cria dois objetos da estrutura Pessoa.
 
@@ -47,6 +54,14 @@ int main(){
    } else {
        cout << "A segunda pessoa e mais velha.\n";
    }
+    //Calcula e exibe a diferença de idade.
+    cout << "A diferenca de idade entre as duas pessoas e de " << diferencaIdade(pessoa1, pessoa2) << " anos.\n";
 
+    //Compara os salarios das duas pessoas.
+    if(compararSalario(pessoa1, pessoa2)){
+        cout << "A primeira pessoa tem um salario maioir.\n";
+    }else{
+        cout << "A segunda pessoa tem um salario maior.\n";
+    }
    return 0;
 }
